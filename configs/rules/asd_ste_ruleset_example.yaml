@@ -1,0 +1,62 @@
+mandatory_field_presence:
+  rule_id: 001
+  severity: high
+  description: "Checks for the presence of mandatory fields in the document."
+  example_violation: "Missing mandatory field: Title."
+  correction_template: "Please ensure that the Title field is included in the document."
+
+formatting_style_consistency:
+  rule_id: 002
+  severity: medium
+  description: "Ensures consistent formatting and style throughout the document."
+  example_violation: "Inconsistent font size in section headers."
+  correction_template: "Adjust the font size of section headers to match the standard."
+
+specification_tolerance_compliance:
+  rule_id: 003
+  severity: high
+  description: "Verifies compliance with specified tolerances in the document."
+  example_violation: "Tolerance for dimension X exceeds specified limits."
+  correction_template: "Revise the dimension X to comply with the specified tolerance."
+
+procedural_integrity:
+  rule_id: 004
+  severity: high
+  description: "Checks for the integrity of procedures outlined in the document."
+  example_violation: "Procedure step 3 is missing."
+  correction_template: "Add the missing step 3 to the procedure."
+
+reference_link_validity:
+  rule_id: 005
+  severity: medium
+  description: "Validates the links and references provided in the document."
+  example_violation: "Reference link to section 5 is broken."
+  correction_template: "Update the reference link to point to the correct section."
+
+terminology_abbreviation_consistency:
+  rule_id: 006
+  severity: low
+  description: "Ensures consistent use of terminology and abbreviations."
+  example_violation: "Abbreviation 'ABC' is used inconsistently."
+  correction_template: "Standardize the use of abbreviation 'ABC' throughout the document."
+
+figure_table_caption_alignment:
+  rule_id: 007
+  severity: medium
+  description: "Checks for proper alignment of figure and table captions."
+  example_violation: "Caption for Figure 1 is misaligned."
+  correction_template: "Align the caption for Figure 1 according to the formatting guidelines."
+
+pdf_specific_checks:
+  rule_id: 008
+  severity: low
+  description: "Performs checks specific to PDF formatting and structure."
+  example_violation: "PDF contains embedded fonts that are not supported."
+  correction_template: "Ensure that all fonts used in the PDF are supported."
+
+rule_metadata:
+  rule_id: 009
+  severity: info
+  description: "Provides metadata for each rule, including its ID and severity."
+  example_violation: "Rule metadata is missing for rule 001."
+  correction_template: "Add the missing metadata for rule 001."

@@ -1,0 +1,5 @@
+SES-DocGuard
+├── input_pdfs
+│   ├── your_first_pdf.pdf
+│   ├── your_second_pdf.pdf
+│   └── (other PDFs...)

@@ -1,0 +1,45 @@
+name: SES-DocGuard
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pytorch=1.12.1
+  - torchvision
+  - torchaudio
+  - transformers
+  - datasets
+  - pydantic
+  - pdf2image
+  - opencv
+  - tesseract
+  - pyyaml
+  - tqdm
+  - black
+  - flake8
+  - pre-commit
+  - ipywidgets
+  - html5lib
+  - beautifulsoup4
+  - requests
+  - seaborn
+  - plotly
+  - altair
+  - jupyter_contrib_nbextensions
+  - pip:
+      - sentence-transformers
+      - wandb
+      - sacremoses
+      - regex
+      - tokenizers
+      - sacrebleu
+      - pytest
+      - pytest-cov
+      - coverage

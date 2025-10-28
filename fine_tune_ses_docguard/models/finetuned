@@ -1,0 +1,5 @@
+The directory `/SES-DocGuard/SES-DocGuard/fine_tune_ses_docguard/models/finetuned` is intended to store the fine-tuned models. Since this is a directory, it does not contain any specific files or code. Therefore, the contents of this directory will be empty, and you can create it as follows:
+
+# This directory is intentionally left blank. 
+
+You can create the directory structure in your project as needed, and it will be populated with fine-tuned model files after you run the training process.

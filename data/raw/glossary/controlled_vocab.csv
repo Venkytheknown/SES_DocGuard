@@ -1,0 +1,90 @@
+controlled_vocab,description
+CMM,Configuration Management Manual
+ESM,Engineering Standard Manual
+AMM,Aircraft Maintenance Manual
+SB,Service Bulletin
+PDF,Portable Document Format
+ASD,Automated Systems Development
+STE,Standard Technical Evaluation
+BPE,Byte Pair Encoding
+LLM,Large Language Model
+OCR,Optical Character Recognition
+CI,Continuous Integration
+JSON,JavaScript Object Notation
+HTML,HyperText Markup Language
+API,Application Programming Interface
+ML,Machine Learning
+MLOps,Machine Learning Operations
+F1,F1 Score
+EM,Exact Match
+BLEU,Bilingual Evaluation Understudy
+ECE,Expected Calibration Error
+MRR,Mean Reciprocal Rank
+Tokenization,The process of converting text into tokens
+Normalization,The process of converting text into a standard format
+Evaluation,The process of assessing model performance
+Inference,The process of making predictions using a trained model
+Attention,Mechanism that allows the model to focus on specific parts of the input
+Training,The process of teaching a model using data
+Fine-tuning,The process of making small adjustments to a pre-trained model
+Metrics,Standards of measurement used to assess performance
+Reproducibility,The ability to obtain consistent results using the same methods
+Guidelines,Recommended practices for performing tasks
+Compliance,Adherence to rules or standards
+Proprietary,Owned by a specific individual or company
+Data,Information processed or stored by a computer
+Model,Mathematical representation of a system or process
+Pipeline,A series of data processing steps
+Visualization,The representation of data in a graphical format
+Report,A document that presents information in an organized format
+Output,The result produced by a process or system
+Input,The data or information fed into a system or process
+Directory,A folder that contains files or other directories
+Script,A program or sequence of instructions that is executed by a computer
+Environment,The setup in which a program runs, including dependencies and configurations
+Configuration,Settings that determine how a system operates
+Dependency,A library or package that a program requires to function
+Checksum,A value used to verify the integrity of data
+Unit test,A test that verifies the functionality of a specific section of code
+Stub,A placeholder for a function or method that is not yet implemented
+Runbook,A document that provides instructions for performing a specific task
+Colab,Google Colaboratory, a cloud-based Jupyter notebook environment
+Git,Version control system for tracking changes in code
+Repository,A storage location for software packages or code
+Workflow,A sequence of processes or tasks that are carried out to achieve a specific goal
+Token,The smallest unit of text processed by a model
+Field,An area of study or a specific aspect of a subject
+Violation,A breach of a rule or standard
+Correction,An adjustment made to fix an error or inconsistency
+Guideline,A general rule or principle that provides direction
+Template,A pre-designed format used as a starting point for creating documents or files
+Snippet,A small portion of text or code
+Evidence,Information that supports a claim or argument
+Reference,A mention of a source of information
+Link,A connection to another document or resource
+Caption,A brief explanation or description accompanying an image or table
+Alignment,The arrangement of elements in relation to each other
+Consistency,The quality of being uniform or in agreement
+Integrity,The state of being whole or undivided
+Compliance,The act of conforming to rules or standards
+Proprietary,Owned by a specific individual or company
+Data,Information processed or stored by a computer
+Model,Mathematical representation of a system or process
+Pipeline,A series of data processing steps
+Visualization,The representation of data in a graphical format
+Report,A document that presents information in an organized format
+Output,The result produced by a process or system
+Input,The data or information fed into a system or process
+Directory,A folder that contains files or other directories
+Script,A program or sequence of instructions that is executed by a computer
+Environment,The setup in which a program runs, including dependencies and configurations
+Configuration,Settings that determine how a system operates
+Dependency,A library or package that a program requires to function
+Checksum,A value used to verify the integrity of data
+Unit test,A test that verifies the functionality of a specific section of code
+Stub,A placeholder for a function or method that is not yet implemented
+Runbook,A document that provides instructions for performing a specific task
+Colab,Google Colaboratory, a cloud-based Jupyter notebook environment
+Git,Version control system for tracking changes in code
+Repository,A storage location for software packages or code
+Workflow,A sequence of processes or tasks that are carried out to achieve a specific goal

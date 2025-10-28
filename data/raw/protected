@@ -1,0 +1,10 @@
+The directory `/SES-DocGuard/SES-DocGuard/data/raw/protected` is intended for storing proprietary data. Since this is a directory, it does not contain any specific files or code. Therefore, the contents of this directory will be intentionally left blank. 
+
+You can create the directory structure as follows:
+
+- SES-DocGuard
+  - data
+    - raw
+      - protected (this folder is intentionally left blank)
+
+Make sure to create the directory in your project structure to store any proprietary data securely.

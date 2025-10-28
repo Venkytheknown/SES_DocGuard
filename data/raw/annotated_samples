@@ -1,0 +1,3 @@
+The directory `/SES-DocGuard/SES-DocGuard/data/raw/annotated_samples` is intended to store annotated sample data. Since this is a directory, it does not contain any files. Therefore, the contents of this directory are intentionally left blank. 
+
+You can create this directory in your project structure, and it will be ready to store any annotated sample files you may generate or use in the future.

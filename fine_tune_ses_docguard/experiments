@@ -1,0 +1,5 @@
+The `/SES-DocGuard/SES-DocGuard/fine_tune_ses_docguard/experiments` directory is intended to store the results of various experiments, including attention maps and model outputs. Since this directory is meant to hold files generated during experiments, it is typically left empty initially. 
+
+Here is the content for the `experiments` directory:
+
+# This directory is intentionally left blank.

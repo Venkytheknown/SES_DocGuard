@@ -1,0 +1,55 @@
+mandatory_field_presence:
+  rule_id: 001
+  severity: high
+  description: "Check for mandatory fields in the document."
+  example_violation: "Missing 'Title' field in the document."
+  correction_template: "Please ensure that the 'Title' field is included in the document."
+
+formatting_style_consistency:
+  rule_id: 002
+  severity: medium
+  description: "Ensure consistent formatting and style throughout the document."
+  example_violation: "Inconsistent font size in section headings."
+  correction_template: "Standardize the font size for all section headings."
+
+specification_tolerance_compliance:
+  rule_id: 003
+  severity: high
+  description: "Verify compliance with specifications and tolerances."
+  example_violation: "Tolerance for dimension 'X' exceeds specified limits."
+  correction_template: "Adjust the dimension 'X' to comply with the specified tolerance."
+
+procedural_integrity:
+  rule_id: 004
+  severity: high
+  description: "Check for integrity of procedures outlined in the document."
+  example_violation: "Procedure step 3 is missing."
+  correction_template: "Add the missing step 3 to the procedure."
+
+reference_link_validity:
+  rule_id: 005
+  severity: medium
+  description: "Ensure all references and links are valid."
+  example_violation: "Reference to section 5.2 is broken."
+  correction_template: "Update the reference to point to the correct section."
+
+terminology_abbreviation_consistency:
+  rule_id: 006
+  severity: low
+  description: "Check for consistency in terminology and abbreviations."
+  example_violation: "The abbreviation 'CMM' is used inconsistently."
+  correction_template: "Standardize the use of the abbreviation 'CMM' throughout the document."
+
+figure_table_caption_alignment:
+  rule_id: 007
+  severity: low
+  description: "Ensure captions for figures and tables are aligned correctly."
+  example_violation: "Caption for Figure 1 is misaligned."
+  correction_template: "Align the caption for Figure 1 with the figure."
+
+pdf_specific_checks:
+  rule_id: 008
+  severity: medium
+  description: "Perform checks specific to PDF formatting and structure."
+  example_violation: "PDF contains embedded fonts that are not supported."
+  correction_template: "Replace unsupported embedded fonts with standard fonts."

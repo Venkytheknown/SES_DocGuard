@@ -1,0 +1,14 @@
+vocab_size: 32000
+merge_operations: 50000
+min_frequency: 2
+special_tokens:
+  - <pad>
+  - <unk>
+  - <bos>
+  - <eos>
+  - <sep>
+  - <cls>
+  - <mask>
+unicode_normalization: NFKC
+preserve_case: false
+max_sequence_length: 2048

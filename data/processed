@@ -1,0 +1,9 @@
+The directory `/SES-DocGuard/SES-DocGuard/data/processed` is intended to store processed data outputs. Since this is a directory, it does not contain any specific files or content. Therefore, the contents of this directory will be empty until the PDF ingestion process is executed, which will generate JSON files based on the processed PDFs.
+
+You can create the directory structure as follows:
+
+- SES-DocGuard
+  - data
+    - processed
+
+This directory will be populated with JSON files after running the ingestion script.

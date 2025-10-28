@@ -1,0 +1,3 @@
+The contents of the file /SES-DocGuard/SES-DocGuard/fine_tune_ses_docguard/data_raw_checksums.txt should be as follows:
+
+# This file is intentionally left blank.

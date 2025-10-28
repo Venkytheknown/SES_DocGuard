@@ -1,0 +1,35 @@
+model_config:
+  architecture: transformer
+  num_encoder_layers: 12
+  num_decoder_layers: 12
+  hidden_size: 768
+  ffn_size: 3072
+  num_attention_heads: 12
+  dropout: 0.1
+  positional_encoding: rotary_relative_bias
+  attention_logging_hooks: true
+  init_seed: 42
+  max_sequence_length: 2048
+  training:
+    batch_size: 32
+    learning_rate: 5e-5
+    num_epochs: 10
+    warmup_steps: 500
+    weight_decay: 0.01
+  evaluation:
+    metrics:
+      - accuracy
+      - precision
+      - recall
+      - f1
+      - em
+      - per_rule_precision_recall
+      - bleu
+      - ece
+      - mrr
+      - inference_latency
+      - model_size
+  output:
+    save_model_path: ./fine_tune_ses_docguard/models/finetuned
+    save_attention_maps: true
+    save_logs: true

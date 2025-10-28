@@ -1,0 +1,6 @@
+The directory `/SES-DocGuard/SES-DocGuard/fine_tune_ses_docguard/data/raw` is intended to store raw data for fine-tuning the SES-DocGuard model. Since this is a directory, it does not contain any specific file contents. You can create the directory structure as follows:
+
+- Create the directory `fine_tune_ses_docguard/data/raw` if it does not already exist.
+- Inside this directory, you can place any raw data files that you intend to use for fine-tuning the model.
+
+If you need to create specific files within this directory, please specify the file names and contents you would like to include.

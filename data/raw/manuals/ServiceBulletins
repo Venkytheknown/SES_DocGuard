@@ -1,0 +1,3 @@
+The directory `/SES-DocGuard/SES-DocGuard/data/raw/manuals/ServiceBulletins` is intended to store raw Service Bulletins. Since this is a directory, it does not contain any files. Therefore, the contents of this directory will be intentionally left blank. 
+
+You can create this directory in your project structure, and it will be ready to store the relevant PDF files for processing.
